@@ -1,0 +1,13 @@
+C:\Users\renat\source\repos\Agenda\Agenda\bin\Debug\netcoreapp3.1\Agenda.exe
+C:\Users\renat\source\repos\Agenda\Agenda\bin\Debug\netcoreapp3.1\Agenda.deps.json
+C:\Users\renat\source\repos\Agenda\Agenda\bin\Debug\netcoreapp3.1\Agenda.runtimeconfig.json
+C:\Users\renat\source\repos\Agenda\Agenda\bin\Debug\netcoreapp3.1\Agenda.runtimeconfig.dev.json
+C:\Users\renat\source\repos\Agenda\Agenda\bin\Debug\netcoreapp3.1\Agenda.dll
+C:\Users\renat\source\repos\Agenda\Agenda\bin\Debug\netcoreapp3.1\Agenda.pdb
+C:\Users\renat\source\repos\Agenda\Agenda\obj\Debug\netcoreapp3.1\Agenda.csprojAssemblyReference.cache
+C:\Users\renat\source\repos\Agenda\Agenda\obj\Debug\netcoreapp3.1\Agenda.AssemblyInfoInputs.cache
+C:\Users\renat\source\repos\Agenda\Agenda\obj\Debug\netcoreapp3.1\Agenda.AssemblyInfo.cs
+C:\Users\renat\source\repos\Agenda\Agenda\obj\Debug\netcoreapp3.1\Agenda.csproj.CoreCompileInputs.cache
+C:\Users\renat\source\repos\Agenda\Agenda\obj\Debug\netcoreapp3.1\Agenda.dll
+C:\Users\renat\source\repos\Agenda\Agenda\obj\Debug\netcoreapp3.1\Agenda.pdb
+C:\Users\renat\source\repos\Agenda\Agenda\obj\Debug\netcoreapp3.1\Agenda.genruntimeconfig.cache
