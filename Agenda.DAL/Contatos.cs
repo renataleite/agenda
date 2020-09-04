@@ -13,8 +13,8 @@ namespace Agenda.DAL
 
         public Contatos()
         {
-            _strCon = ConfgurationManager.ConnectionsString["con"].ConnectionString;
-            //_strCon = @"Data Source=.\sqlexpress;Initial Catalog=Agenda;Integrated Security=True;";
+            //_strCon = ConfgurationManager.ConnectionsString["con"].ConnectionString;
+            _strCon = @"Data Source=.\sqlexpress;Initial Catalog=Agenda;Integrated Security=True;";
             _con = new SqlConnection(_strCon);
         }
         public void Adicionar(Contato contato)
