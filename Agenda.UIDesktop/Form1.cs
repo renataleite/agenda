@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
 
@@ -29,8 +22,7 @@ namespace Agenda.UIDesktop
             SqlConnection con = new SqlConnection(strCon);
             con.Open();
 
-            string sql = String.Format("insert into Agenda (id, Nome) values ('{0}', '{1}');", id, nome);
-
+            string sql = String.Format("insert into Contato (id, Nome) values ('{0}', '{1}');", id, nome);
 
             SqlCommand cmd = new SqlCommand(sql, con);
 
@@ -38,11 +30,11 @@ namespace Agenda.UIDesktop
 
             sql = String.Format("select Nome from Contato where Id = '{0}';", id);
 
+            cmd = new SqlCommand(sql, con);
+
             txtContatoSalvo.Text = cmd.ExecuteScalar().ToString();
             
             con.Close();
-
-
         }
     }
 }
