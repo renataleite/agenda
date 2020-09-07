@@ -53,6 +53,7 @@ namespace Agenda.DAL.Test
             Assert.AreEqual(contato.Id, contatoResultado.Id);
             Assert.AreEqual(contato.Nome, contatoResultado.Nome);
     }
+    [Test]
     public void ObterTodosOsContatosTest()
         {
             //Monta

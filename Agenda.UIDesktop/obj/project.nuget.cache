@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t6yIOsM/7w4KAwywHnjNWzMcN7jopVbIA8Lgg0P352e47Xl7d7uFdzqXYGPbsrsvRWAZQtbuntql6LdOYgQWmA==",
+  "dgSpecHash": "RjI2VroCCW2PEZfy0Ad4dM48jQPnp6mlciuj7/QHtG/UNKB1ENDd0f8K2OlpOTHR1R6i6ktAKF4vkjP5G1rneA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\renat\\source\\repos\\Agenda\\Agenda.UIDesktop\\Agenda.UIDesktop.csproj",
+  "projectFilePath": "C:\\Users\\renat\\Documents\\GitHub\\agenda\\Agenda.UIDesktop\\Agenda.UIDesktop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\renat\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\renat\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

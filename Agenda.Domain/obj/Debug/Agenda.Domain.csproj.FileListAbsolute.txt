@@ -4,3 +4,9 @@ C:\Users\renat\source\repos\Agenda\Agenda.Domain\obj\Debug\Agenda.Domain.csprojA
 C:\Users\renat\source\repos\Agenda\Agenda.Domain\obj\Debug\Agenda.Domain.csproj.CoreCompileInputs.cache
 C:\Users\renat\source\repos\Agenda\Agenda.Domain\obj\Debug\Agenda.Domain.dll
 C:\Users\renat\source\repos\Agenda\Agenda.Domain\obj\Debug\Agenda.Domain.pdb
+C:\Users\renat\Documents\GitHub\agenda\Agenda.Domain\bin\Debug\Agenda.Domain.dll
+C:\Users\renat\Documents\GitHub\agenda\Agenda.Domain\bin\Debug\Agenda.Domain.pdb
+C:\Users\renat\Documents\GitHub\agenda\Agenda.Domain\obj\Debug\Agenda.Domain.csprojAssemblyReference.cache
+C:\Users\renat\Documents\GitHub\agenda\Agenda.Domain\obj\Debug\Agenda.Domain.csproj.CoreCompileInputs.cache
+C:\Users\renat\Documents\GitHub\agenda\Agenda.Domain\obj\Debug\Agenda.Domain.dll
+C:\Users\renat\Documents\GitHub\agenda\Agenda.Domain\obj\Debug\Agenda.Domain.pdb

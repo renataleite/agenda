@@ -9,3 +9,16 @@ C:\Users\renat\source\repos\Agenda\Agenda.DAL\obj\Debug\Agenda.DAL.dll
 C:\Users\renat\source\repos\Agenda\Agenda.DAL\obj\Debug\Agenda.DAL.pdb
 C:\Users\renat\source\repos\Agenda\Agenda.DAL\bin\Debug\Agenda.Domain.dll
 C:\Users\renat\source\repos\Agenda\Agenda.DAL\bin\Debug\Agenda.Domain.pdb
+C:\Users\renat\Documents\GitHub\agenda\Agenda.DAL\bin\Debug\Agenda.DAL.dll
+C:\Users\renat\Documents\GitHub\agenda\Agenda.DAL\bin\Debug\Agenda.DAL.pdb
+C:\Users\renat\Documents\GitHub\agenda\Agenda.DAL\bin\Debug\Agenda.Domain.dll
+C:\Users\renat\Documents\GitHub\agenda\Agenda.DAL\bin\Debug\System.Data.SqlClient.dll
+C:\Users\renat\Documents\GitHub\agenda\Agenda.DAL\bin\Debug\Agenda.Domain.pdb
+C:\Users\renat\Documents\GitHub\agenda\Agenda.DAL\bin\Debug\System.Data.SqlClient.xml
+C:\Users\renat\Documents\GitHub\agenda\Agenda.DAL\obj\Debug\Agenda.DAL.csprojAssemblyReference.cache
+C:\Users\renat\Documents\GitHub\agenda\Agenda.DAL\obj\Debug\Agenda.DAL.csproj.CoreCompileInputs.cache
+C:\Users\renat\Documents\GitHub\agenda\Agenda.DAL\obj\Debug\Agenda.DAL.csproj.CopyComplete
+C:\Users\renat\Documents\GitHub\agenda\Agenda.DAL\obj\Debug\Agenda.DAL.dll
+C:\Users\renat\Documents\GitHub\agenda\Agenda.DAL\obj\Debug\Agenda.DAL.pdb
+C:\Users\renat\Documents\GitHub\agenda\Agenda.DAL\bin\Debug\Dapper.dll
+C:\Users\renat\Documents\GitHub\agenda\Agenda.DAL\bin\Debug\Dapper.xml
