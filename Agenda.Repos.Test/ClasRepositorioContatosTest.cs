@@ -27,9 +27,17 @@ namespace Agenda.Repos.Test
         }
 
         [Test]
-        public void Test()
+        public void DeveSerPossivelObterContatoComListaTelefone()
         {
-
+            //Monta
+                //Criar Moq de IContato
+                //Moq da função ObterPorId de IContatos
+                //Criar Moq de Itelefone
+                //Moq da funcao ObterTodosDoContato de Itelefones
+            //Excuta
+                //chama o metodo ObterPorId de RepositorioContatos
+            //Verifica
+                //Verificar se o Conato retornado contém os mesmos dados do Moq Icontato com a lista de Telefones do Moq Itelefone
 
         }
 

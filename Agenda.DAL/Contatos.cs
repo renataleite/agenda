@@ -16,6 +16,7 @@ namespace Agenda.DAL
         {
             _strCon = ConfigurationManager.ConnectionStrings["con"].ConnectionString;
         }
+
         public void Adicionar(Contato contato)
         {
             using (var con = new SqlConnection(_strCon))
