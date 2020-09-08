@@ -43,3 +43,8 @@ C:\Users\renat\Documents\GitHub\agenda\Agenda.DAL.Test\obj\Debug\Agenda.DAL.Test
 C:\Users\renat\Documents\GitHub\agenda\Agenda.DAL.Test\bin\Debug\Agenda.DAL.Test.dll.config
 C:\Users\renat\Documents\GitHub\agenda\Agenda.DAL.Test\bin\Debug\Dapper.dll
 C:\Users\renat\Documents\GitHub\agenda\Agenda.DAL.Test\bin\Debug\Dapper.xml
+C:\Users\renat\Documents\GitHub\agenda\Agenda.DAL.Test\bin\Debug\AutoFixture.dll
+C:\Users\renat\Documents\GitHub\agenda\Agenda.DAL.Test\bin\Debug\Fare.dll
+C:\Users\renat\Documents\GitHub\agenda\Agenda.DAL.Test\bin\Debug\AutoFixture.pdb
+C:\Users\renat\Documents\GitHub\agenda\Agenda.DAL.Test\bin\Debug\AutoFixture.xml
+C:\Users\renat\Documents\GitHub\agenda\Agenda.DAL.Test\bin\Debug\Fare.xml
