@@ -69,6 +69,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ClasRepositorioContatosTest.cs" />
+    <Compile Include="IContatoConstr.cs" />
+    <Compile Include="ITelefoneConstr.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

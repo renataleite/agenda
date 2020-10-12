@@ -459,11 +459,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\renat\\Documents\\GitHub\\agenda\\Agenda.UIDesktop\\Agenda.UIDesktop.csproj",
+      "projectUniqueName": "c:\\Users\\renat\\Desktop\\Projects\\course_test\\agenda\\Agenda.UIDesktop\\Agenda.UIDesktop.csproj",
       "projectName": "Agenda.UIDesktop",
-      "projectPath": "C:\\Users\\renat\\Documents\\GitHub\\agenda\\Agenda.UIDesktop\\Agenda.UIDesktop.csproj",
+      "projectPath": "c:\\Users\\renat\\Desktop\\Projects\\course_test\\agenda\\Agenda.UIDesktop\\Agenda.UIDesktop.csproj",
       "packagesPath": "C:\\Users\\renat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\renat\\Documents\\GitHub\\agenda\\Agenda.UIDesktop\\obj\\",
+      "outputPath": "c:\\Users\\renat\\Desktop\\Projects\\course_test\\agenda\\Agenda.UIDesktop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\renat\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -513,7 +513,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
